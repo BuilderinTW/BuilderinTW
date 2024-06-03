@@ -1,5 +1,4 @@
-name: Build my gitbook and deploy to gh-pages
-
+name: 自動發布GitBook頁面
 on:
   workflow_dispatch:
   push:
