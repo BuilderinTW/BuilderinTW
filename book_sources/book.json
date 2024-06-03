@@ -30,8 +30,8 @@
           }
       },
       "edit-link": {
-        "base": "https://github.com/<你的 GitHub 帳號>/demo-build-and-publish-gitbook/edit/master/",
-        "label": "Edit This Page"
+        "base": "https://github.com/BuilderinTW/BuilderinTW/edit/master/",
+        "label": "編輯頁面"
       },
       "ga": {
         "token": ""
